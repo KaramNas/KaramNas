@@ -7,7 +7,7 @@ I am currently deepening my knowledge in the fields of Machine Learning and Arti
 # 🌐 Contact:
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karamnasr@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/karam-nasr-570168216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](<[www.linkedin.com/in/karam-nasr-570168216](https://www.linkedin.com/in/karam-nasr-570168216/)>)
 
 # 💻 Tech Stack:
 
